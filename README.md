@@ -1,15 +1,20 @@
-# 🎙️ AI-Based Speech Emotion Recognition
+## Team 17 – Speech Emotion Recognition
 
 *A Wav2Vec2 + Lightweight Neural Classifier SER System*
 
+Members:
+
+Manmeet Singh – 102215248
+
+Aryan Kondal – 102215247
+
+Aniket Singla – 102215244
 
 ## 📌 Overview
 
+
 This project builds a **Speech Emotion Recognition (SER)** model using **Wav2Vec2** embeddings and a **shallow neural classifier** for fast and accurate emotion prediction.
 The complete workflow—including preprocessing, feature extraction, training, and evaluation—is implemented in the notebook **DL_SER_Team_17.ipynb**.
-
-The system is designed to be **simple, fast, and suitable for real-time deployment**, following the methodology described in the project report.
-
 
 ---
 
